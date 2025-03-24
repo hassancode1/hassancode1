@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan jaeh</h1>
 <h3 align="center">Software engineer [javascript]</h3>
 
-- 🔭 I’m currently working on [Flexisaf](https://www.flexisaf.com/)
 
 - 🌱 I’m currently learning **docker, kubernetes, mongo db,**
 
