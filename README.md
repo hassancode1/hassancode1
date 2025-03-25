@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hassan jaeh</h1>
-<h3 align="center">Software engineer [javascript]</h3>
+<h3 align="center">Software engineer </h3>
 
 
 - 🌱 I’m currently learning **docker, kubernetes, mongo db,**
 
 - 👯 I’m looking to collaborate on [subabase](https://supabase.com/)
 
-- 💬 Ask me about **react , vue , node , postgres**
+- 💬 Ask me about **react , react , node , postgres**
 
 - 📫 How to reach me **hassanjaeh@gmail.com**
 
